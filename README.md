@@ -1,0 +1,1 @@
+# QAMP2025BatteryDegradation
